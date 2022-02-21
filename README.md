@@ -1,0 +1,1 @@
+This project is centered around creating a recipie page while using Html to practice. For the initial project, I will only be using html and later on, CSS.
